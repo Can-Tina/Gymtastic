@@ -1,0 +1,99 @@
+header{
+    background-color: #077CAA;
+    padding-left: 10px
+}
+
+.line{
+    display: inline-block; 
+    padding-right:50px; 
+    border-style: none;
+    vertical-align:top;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    padding-right:30px;
+    font-weight: lighter; 
+}
+
+h1{
+    color: #077CAA;
+}
+
+.main-text{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.percent{
+    color: #077CAA;
+    font-weight: bold; 
+}
+
+.membership{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    width: 200px;
+    text-align: center;
+    color: #F89336;
+    border-radius: 10px;
+}
+
+#follow{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#instagram,
+#facebook,
+#youtube{
+    display: inline-block; 
+    padding-left: 50px; 
+    padding-right: 50px; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    margin-left: 20px;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+    vertical-align:top;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    font-size: larger;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+#instagram{
+    background-color: #923FFD;
+}
+
+#facebook{
+    background-color: #1877F2;
+}
+
+#youtube{
+    background-color: #FF0000;
+}
+
+.bottom{
+    background-color: #077CAA;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.near{
+    font-weight: bold;
+}
+
+.gym-list{
+    padding-left: 40px;
+}
